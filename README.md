@@ -7,7 +7,7 @@ This repository contains a simple API build with Laravel and Redis.
 First clone the repository:
 
 ```bash
-git clone git@github.com:haldunbuyoruk/backend-game-api.git
+git clone https://github.com/haldunbuyoruk/backend-game-api.git
 ```
 ```bash
 cd backend-game-api
